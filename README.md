@@ -1,2 +1,2 @@
-<h1>Tuki-Platform</h1>
-Making web development faster without limitations
+<h1>Tuki-Framework</h1>
+Tuki Framework is open source, community-driven and lightweight PHP framework.
