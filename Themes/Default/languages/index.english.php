@@ -1,0 +1,2 @@
+<?php
+$txt['SiteTitle'] = 'Home';
