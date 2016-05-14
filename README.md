@@ -1,4 +1,4 @@
-#Tuki-Framework
+#Tuki Framework
 Tuki Framework is open source, community-driven and lightweight PHP backend framework.
 
 This framework aims to be helpful toolset for web developers who want full control over their website and also faster developing.
